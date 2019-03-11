@@ -1,0 +1,9 @@
+applicant:
+    name:
+    phone_number:
+    email_address:
+settings:
+    reqeust_appointment: 
+    time_between_checks: 
+    pushover_app_token:
+    pushover_user_api:
