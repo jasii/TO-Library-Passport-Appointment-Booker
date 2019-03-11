@@ -3,4 +3,4 @@ Python script that will book an appointment for the first available US Passport 
 
 * Put latest version of chromedriver for your OS inside the directory (http://chromedriver.chromium.org/)
 * Edit the config.yml file with your information
-* Add Pushover api keys if you would like notifications to your phone. (pushover.net)
+* Add Pushover api keys if you would like notifications to your phone. (https://pushover.net/)
